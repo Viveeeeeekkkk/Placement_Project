@@ -6,7 +6,7 @@ function Dashboard() {
     <div className='dashboard'>
         <div className='dashb_header'>
           <div className='welcome_name'>
-            Hello Nallapati Koteswara Sai Vivek
+            Hello, Nallapati Koteswara Sai Vivek   {/* Here, student name should appear */}
           </div>
           <div className='other_options'>
             <span className='optionnnn'>My Applications</span>
@@ -14,7 +14,10 @@ function Dashboard() {
             <span className='optionnnn'>Logout</span>
           </div>
         </div>
-        <div className='dashb_main'>This is your Dashboard</div>
+        <div className='dashb_main_1'>
+          Dashboard
+        </div>
+        <hr id='line' style={{margin: "0px 80px",color: "black"}}></hr>
     </div>
   )
 }
