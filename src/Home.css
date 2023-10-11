@@ -1,0 +1,48 @@
+
+.home {
+    background-image: url('https://img.freepik.com/free-vector/teamwork-background-with-people-work-together_107791-9566.jpg?w=1380&t=st=1696308193~exp=1696308793~hmac=44267522b0713995be25dd52e134ce0730bb40e3e9c8418a4ac559874fffe378');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: scroll; 
+    /* background-color: rgb(107, 159, 155); */
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.row2{
+    height: 700px;
+    width: 100%;
+    align-items: center;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    object-fit: contain;
+    margin: 40px 20px;
+    border: 3px rgb(255, 255, 255) solid;
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+    opacity: 0.93;
+    color: black;
+    height: 350px;
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+    justify-content: center;
+}
+
+.heading{
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 2px #746c6c;
+}
+
+.cont{
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.matter{
+    margin: 20px;
+}

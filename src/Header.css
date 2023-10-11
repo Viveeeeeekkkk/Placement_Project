@@ -1,0 +1,62 @@
+.header{
+    align-items: center;
+    top: 0;
+    height: 120px;
+    background-color: deepskyblue;
+    display: flex;
+    position: sticky;
+    z-index: 100;
+    border-bottom: rgb(2, 39, 174) 3px solid;
+}
+
+.header .web_main_img{
+    width: 35%;
+    left: 0;
+    margin-left: 50px;
+}
+
+.mgit__logo{
+    width: 340px;
+    padding-right: 40px;
+}
+
+.right_components .user_icon{
+    padding: 12px 5px;
+    font-size: large;
+}
+
+
+.header .right_components{
+    display: flex;
+    position: absolute;
+    right: 0;
+    margin-right: 50px;
+    width: auto;
+    font-weight: 500;
+    justify-content: center;
+}
+
+.optionsss{
+    display: flex;
+    flex-direction: column;
+    margin: 0 10px;
+    color: black;
+}
+
+.optionsss:hover{
+    text-decoration: underline;
+    color: rgb(116, 99, 0);
+}
+
+.option_line_1, .option_line_2{
+    font-size: 17px;
+    font-weight: 450;
+}
+
+
+
+
+
+
+
+
