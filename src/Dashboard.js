@@ -10,7 +10,7 @@ function Dashboard() {
           </div>
           <div className='other_options'>
             <span className='optionnnn'>My Applications</span>
-            <span className='optionnnn'>Personal Info</span>
+            <span className='optionnnn'>My Info</span>
             <span className='optionnnn'>Logout</span>
           </div>
         </div>
